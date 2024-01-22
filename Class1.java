@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Mauricio Zurita-Cortes
  */
 
 public class Class1 {
